@@ -13,7 +13,7 @@
 #### ✉️ Contact:
 
 <a href="mailto:mugishodjibril7@gmail.com">
-<img width="30" src="./images/gmail.png">
+<img width="30" src="gmail.png">
 </a>
 
 <hr />
